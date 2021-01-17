@@ -4,7 +4,7 @@
 	padding:50px;
 	margin: 0px;
 	background-color: #4844A3;
-	background-image: url(python_image.jpg);
+	background-image: url('../images/python_image.jpg');
 	background-size: cover;
 	background-position: center;
 	text-decoration-color: #ffffff;
