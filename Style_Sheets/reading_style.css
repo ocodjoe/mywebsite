@@ -4,7 +4,7 @@
 	padding:50px;
 	margin: 0px;
 	background-color: #4844A3;
-	background-image: url(reading_image.webp);
+	background-image: url('../images/reading_image.webp');
 	background-size: cover;
 	background-position: center;
 	text-decoration-color: #ffffff;
