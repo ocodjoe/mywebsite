@@ -10,7 +10,7 @@
 	text-decoration-color: #ffffff;
 }
 
-.Projects_Container{ /* Here, I realized that working on the image-wrapper
+.zone3 .Project_Container{ /* Here, I realized that working on the image-wrapper
 	container takes care of image sizes. So I don't have to worry
 	about image sizes*/ 
 	
