@@ -18,7 +18,7 @@
 	max-height: 80vh;
 	margin: 4% 4% 1% 1%; 
 	display:grid;
-	grid-template-columns: 33% 33% 33%; 
+	grid-template-columns: 60px 60px 60px; 
 	grid-gap: 8%;
 	align-content: center;
 	justify-content: center;
