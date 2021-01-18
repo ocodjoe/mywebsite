@@ -10,20 +10,17 @@
 	text-decoration-color: #ffffff;
 }
 
-.zone3 .Intro{
+.Projects_Container{ /* Here, I realized that working on the image-wrapper
+	container takes care of image sizes. So I don't have to worry
+	about image sizes*/ 
+	
 	max-width: 100%;
-	max-height: 100%;
-	color: #FFFFFF;
-     /* text-indent: 50px; */
-	text-align: justify;
-
-}
-
-.zone3 .Projects{
-	max-width: 100%;
-	max-height: 100%;
-	color: #FFFFFF;
-	text-indent: 20px;
-	text-align: justify;
-
+	max-height: 80vh;
+	margin: 4% 4% 1% 1%; 
+	display:grid;
+	grid-template-columns: 30% 30% 30%; 
+	grid-gap: 5%;
+	align-content: center;
+	justify-content: center;
+	
 }
