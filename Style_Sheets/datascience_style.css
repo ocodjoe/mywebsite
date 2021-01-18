@@ -17,6 +17,6 @@
 	margin: 2%; 
 	display:grid;
 	grid-template-columns: 1fr, 1fr, 1fr; 
-	grid-gap: 0.25fr;
+	grid-auto-rows: 400px;
 	
 }
