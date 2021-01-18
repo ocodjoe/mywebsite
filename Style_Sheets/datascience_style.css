@@ -14,13 +14,8 @@
 	container takes care of image sizes. So I don't have to worry
 	about image sizes*/ 
 	
-	max-width: 100%;
-	max-height: auto;
 	margin: 2%; 
 	display:grid;
 	grid-template-columns: 1fr, 1fr, 1fr; 
-	grid-gap: 4%;
-	align-content: center; 
-	justify-content: center;
 	
 }
