@@ -42,3 +42,23 @@
 	grid-row-end:10;
 
 }
+
+.box4{
+	grid-column-start:1;
+	grid-row-start:10;
+	grid-row-end:20;
+
+}
+
+.box5{
+	grid-column-start:2;
+	grid-row-start:10;
+	grid-row-end:20;
+
+}
+.box6{
+	grid-column-start:3;
+	grid-row-start:10;
+	grid-row-end:20;
+
+}
