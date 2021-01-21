@@ -27,8 +27,11 @@
 	grid-row-start:1;
 	grid-row-end:10;
 	text-align: center;
+	display: grid;
+	grid-template-rows: 1fr 2fr;
 
 }
+
 
 .box2{
 	grid-column-start:2;
