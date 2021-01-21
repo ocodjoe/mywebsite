@@ -32,6 +32,16 @@
 
 }
 
+.box1 .one{
+	background-color: #ff0000;
+
+}
+
+
+.box1 .two{
+	background-color: #ffffff;
+
+}
 
 .box2{
 	grid-column-start:2;
