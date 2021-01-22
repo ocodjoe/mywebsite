@@ -36,7 +36,7 @@
 .box1 .one{
 	background-color: #FF556E;
 	background-image: url("../images/regression_image.jpeg");
-	background-size: cover; 
+	background-size: 50%; 
 }
 
 
