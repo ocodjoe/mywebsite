@@ -16,8 +16,6 @@
 	
 	margin: 2%; 
 /* 	below 2 lines of min-height and overflow is what makes the container expand automatically to contain things */
- 	height: auto;
-	overflow: hidden;
 	display:grid;
 	grid-auto-rows: 150px ;
 /*  	row-gap: 1em; */
