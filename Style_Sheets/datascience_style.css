@@ -15,22 +15,14 @@
 	about image sizes*/ 
 	
 	margin: 2%; 
- 	max-height: 100vh;
+ 	min-height: 100vh;
+	overflow: hidden;
 	display:grid;
-	grid-template-rows: auto ;
+	grid-template-rows: repeat(7, 3fr) ;
 /*  	row-gap: 1em; */
 	
 }
 
-.box1{
-	grid-row-start:1;
-        grid-row-end:6;
-}
 
-.box2{
-	grid-row-start:7;
-        grid-row-end:12;
-
-}
 
 
