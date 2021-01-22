@@ -29,7 +29,7 @@
 	text-align: center;
         /* Adding display grid below to make items in this box display in grid form */
 	display: grid;       
-	grid-template-rows: 2fr 1fr;
+	grid-template-rows: 2fr 3fr;
 
 }
 
