@@ -15,7 +15,7 @@
 	about image sizes*/ 
 	
 	margin: 2%; 
-	max-height: 100vh;
+/* 	max-height: 100vh; */
 	display:grid;
 	grid-template-rows: 2fr 2fr 2fr 2fr 2fr 2fr 2fr;
 /* 	column-gap: 10px; */
