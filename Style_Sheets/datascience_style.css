@@ -17,7 +17,7 @@
 	margin: 2%; 
  	max-height: 100vh;
 	display:grid;
-	grid-template-rows: 200px ;
+	grid-template-rows: 1fr 1fr 1fr 1fr ;
 /* 	column-gap: 10px; */
 /* 	row-gap: 2em; */
 	
