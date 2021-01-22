@@ -27,7 +27,8 @@
 	grid-row-start:1;
 	grid-row-end:10;
 	text-align: center;
-	display: grid;
+        /* Adding display grid below to make items in this box display in grid form */
+	display: grid;       
 	grid-template-rows: 1fr 2fr;
 
 }
