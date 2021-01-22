@@ -15,8 +15,9 @@
 	about image sizes*/ 
 	
 	margin: 2%; 
+	max-height: auto;
 	display:grid;
-	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 /* 	column-gap: 10px; */
 	row-gap: 2em;
 	
