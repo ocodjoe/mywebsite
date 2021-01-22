@@ -17,7 +17,7 @@
 	margin: 2%; 
 /* 	max-height: 100vh; */
 	display:grid;
-	grid-template-rows: auto;
+	grid-auto-rows: 100px ;
 /* 	column-gap: 10px; */
 /* 	row-gap: 2em; */
 	
@@ -31,7 +31,7 @@
 	text-align: center;
         /* Adding display grid below to make items in this box display in grid form */
 	display: grid;       
-	grid-template-rows: 3fr 1fr;
+/* 	grid-template-rows: 3fr 1fr; */
 
 }
 
