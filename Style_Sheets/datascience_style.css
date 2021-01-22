@@ -18,8 +18,7 @@
  	max-height: 100vh;
 	display:grid;
 	grid-template-rows: 2fr ;
-/* 	column-gap: 10px; */
-/* 	row-gap: 2em; */
+ 	row-gap: 1em;
 	
 }
 
