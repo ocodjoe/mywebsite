@@ -17,7 +17,7 @@
 	margin: 2%; 
 /* 	max-height: 100vh; */
 	display:grid;
-	grid-auto-rows: 200px ;
+	grid-auto-rows: minmax(200px,auto) ;
 /* 	column-gap: 10px; */
 /* 	row-gap: 2em; */
 	
