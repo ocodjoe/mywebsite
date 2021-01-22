@@ -23,8 +23,8 @@
 }
 
 .box1{
-	height:100px;
-
+	grid-row-start:1;
+        grid-row-end:3;
 }
 
 .box2{
