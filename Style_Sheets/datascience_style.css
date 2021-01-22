@@ -25,7 +25,7 @@
 .box1{
 	grid-column-start:1;
 	grid-row-start:1;
-	grid-row-end:10;
+	grid-row-end:15;
 	text-align: center;
         /* Adding display grid below to make items in this box display in grid form */
 	display: grid;       
